@@ -22,4 +22,6 @@ This repository documents my 14-day hands-on learning journey with **Databricks 
 | Day 02 | Coming soon |
 | Day 03 | Coming soon |
 
+## 📂 Repository Structure
+
 
